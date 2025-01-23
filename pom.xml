@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.madhav</groupId>
-    <artifactId>index.html</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>index</artifactId>
+    <version>1.0</version>
     <packaging>war</packaging>
 
     <name>Madhav Portfolio</name>
